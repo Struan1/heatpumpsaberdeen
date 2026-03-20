@@ -503,7 +503,7 @@ section, .section {
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(to right, rgba(14,38,24,0.90) 0%, rgba(14,38,24,0.68) 55%, rgba(14,38,24,0.25) 100%);
+  background: linear-gradient(to right, rgba(45,106,79,0.72) 0%, rgba(45,106,79,0.45) 55%, rgba(45,106,79,0.10) 100%);
   pointer-events: none;
 }
 .page-hero.hero-img .container { position: relative; z-index: 1; }
