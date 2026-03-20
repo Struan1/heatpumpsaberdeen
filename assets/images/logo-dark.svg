@@ -1,4 +1,4 @@
-<svg width="280" height="80" viewBox="0 0 280 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="280" height="86" viewBox="0 0 280 86" xmlns="http://www.w3.org/2000/svg">
   <!-- Heat pump house icon -->
   <g transform="translate(12, 8)">
     <!-- House body -->
@@ -13,5 +13,5 @@
   <!-- Brand name -->
   <text x="100" y="34" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff" letter-spacing="0.3">Heat Pumps</text>
   <text x="100" y="56" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff" letter-spacing="0.3">Aberdeen</text>
-  <text x="101" y="70" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="9" font-weight="400" fill="#ffffff" opacity="0.7" letter-spacing="1.8">MCS CERTIFIED INSTALLERS</text>
+  <text x="101" y="74" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="12.6" font-weight="400" fill="#ffffff" opacity="0.7" letter-spacing="1.8">MCS CERTIFIED INSTALLERS</text>
 </svg>
