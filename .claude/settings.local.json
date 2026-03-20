@@ -13,7 +13,9 @@
       "Bash(echo:*)",
       "WebFetch(domain:www.greenhomesystems.co.uk)",
       "Bash(grep:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)"
     ]
   }
 }
