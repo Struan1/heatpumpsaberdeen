@@ -718,7 +718,7 @@ section, .section {
 
 /* --- CTA SECTION ------------------------------------------- */
 .cta-section {
-  background: var(--primary);
+  background: linear-gradient(135deg, var(--primary) 0%, #2d6a4f 40%, #4ade80 100%);
   padding: 64px 0;
   text-align: center;
 }
