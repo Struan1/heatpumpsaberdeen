@@ -628,7 +628,8 @@ section, .section {
   border: 1px solid var(--border);
   transition: transform 0.2s;
 }
-.card:hover { transform: translateY(-3px); }
+.card:hover { transform: translateY(-3px); background: #4ade80; box-shadow: 0 8px 24px rgba(74,222,128,0.35); }
+.card:hover h3, .card:hover p, .card:hover .card-link { color: var(--primary); }
 .card h3 { color: var(--primary); margin-bottom: 0.75rem; }
 .card p { color: var(--text-light); margin-bottom: 1rem; }
 .card-link {
