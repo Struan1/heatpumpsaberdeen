@@ -184,7 +184,7 @@ section, .section {
   border: 1px solid var(--border);
   border-radius: 8px;
   box-shadow: var(--shadow);
-  min-width: 220px;
+  min-width: 260px;
   opacity: 0;
   visibility: hidden;
   transform: translateY(-6px);
