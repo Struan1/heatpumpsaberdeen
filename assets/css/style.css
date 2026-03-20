@@ -747,9 +747,10 @@ section, .section {
   margin-bottom: 2.5rem;
 }
 .section-header h2 { margin-bottom: 0.75rem; }
-.section-header p { color: var(--text-light); font-size: 1.0625rem; max-width: 640px; }
+.section-header p { color: var(--text-light); font-size: 1.0625rem; max-width: 640px; margin-bottom: 1rem; }
+.section-header p:last-child { margin-bottom: 0; }
 .section-header.centered { text-align: center; }
-.section-header.centered p { margin: 0 auto; }
+.section-header.centered p { margin-left: auto; margin-right: auto; }
 
 /* --- FAQ WITH IMAGE ---------------------------------------- */
 .faq-with-image {
