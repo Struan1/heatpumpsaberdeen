@@ -644,7 +644,7 @@ section, .section {
   display: grid;
   gap: 1.5rem;
 }
-.card-grid .card { min-height: 280px; }
+.card-grid .card { min-height: 340px; }
 .card-grid-2 { grid-template-columns: repeat(2, 1fr); }
 .card-grid-3 { grid-template-columns: repeat(3, 1fr); }
 .card-grid-4 { grid-template-columns: repeat(4, 1fr); }
