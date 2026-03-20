@@ -453,7 +453,7 @@ section, .section {
   transition: background 0.3s;
 }
 .svc-card:hover .svc-card-body {
-  background: linear-gradient(to top, rgba(45,106,79,0.72) 0%, rgba(45,106,79,0.3) 60%, transparent 100%);
+  background: linear-gradient(to top, rgba(74,222,128,0.85) 0%, rgba(74,222,128,0.4) 60%, transparent 100%);
 }
 .svc-card-body h3 {
   color: #fff;
