@@ -539,6 +539,15 @@ section, .section {
   gap: 0.5rem;
 }
 
+/* Custom trust bar icons */
+.trust-icon {
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
 /* Custom tick icon */
 .tick {
   display: inline-flex;
