@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Read(//Users/struanbaird/.nano-banana/**)",
+      "Bash(which python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(echo:*)",
+      "WebFetch(domain:www.greenhomesystems.co.uk)",
+      "Bash(grep:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}

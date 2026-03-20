@@ -1,0 +1,17 @@
+<svg width="280" height="80" viewBox="0 0 280 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Heat pump house icon -->
+  <g transform="translate(12, 8)">
+    <!-- House body -->
+    <polygon points="28,18 50,36 50,60 6,60 6,36" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Roof -->
+    <polyline points="0,38 28,10 56,38" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Heat wave arcs -->
+    <path d="M50 38 Q59 38 59 46 Q59 54 50 54" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.95"/>
+    <path d="M50 33 Q64 33 64 46 Q64 59 50 59" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" opacity="0.65"/>
+    <path d="M50 28 Q70 28 70 46 Q70 64 50 64" fill="none" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" opacity="0.35"/>
+  </g>
+  <!-- Brand name -->
+  <text x="100" y="34" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff" letter-spacing="0.3">Heat Pumps</text>
+  <text x="100" y="56" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff" letter-spacing="0.3">Aberdeen</text>
+  <text x="101" y="70" font-family="'Inter', 'Poppins', Arial, sans-serif" font-size="9" font-weight="400" fill="#ffffff" opacity="0.7" letter-spacing="1.8">MCS CERTIFIED INSTALLERS</text>
+</svg>
