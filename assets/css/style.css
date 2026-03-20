@@ -591,7 +591,8 @@ section, .section {
   border-color: var(--white);
 }
 .btn-white:hover {
-  background: var(--light-bg);
+  background: #4ade80;
+  border-color: #4ade80;
   color: var(--primary);
 }
 .btn-outline {
