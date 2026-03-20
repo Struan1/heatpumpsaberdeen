@@ -1064,6 +1064,7 @@ details > *:not(summary) {
   background: #fff;
   border-radius: 10px;
   padding: 1.75rem 1.25rem 1.5rem;
+  transition: background 0.25s, box-shadow 0.25s;
   border-top: 3px solid var(--accent);
   box-shadow: 0 2px 20px rgba(0,0,0,0.08);
   position: relative;
@@ -1088,6 +1089,15 @@ details > *:not(summary) {
   color: var(--accent);
   margin-bottom: 0.75rem;
   line-height: 1;
+}
+.process-card:hover {
+  background: #4ade80;
+  box-shadow: 0 8px 24px rgba(74,222,128,0.35);
+}
+.process-card:hover h3,
+.process-card:hover p,
+.process-card:hover .process-num {
+  color: var(--primary);
 }
 .process-card h3 {
   font-size: 0.9375rem;
