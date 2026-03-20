@@ -750,9 +750,13 @@ section, .section {
 .faq-with-image .faq-img {
   position: sticky;
   top: 100px;
+  align-self: start;
 }
 .faq-with-image .faq-img img {
   width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  object-position: top;
   border-radius: 12px;
   box-shadow: 0 8px 40px rgba(0,0,0,0.13);
   display: block;
