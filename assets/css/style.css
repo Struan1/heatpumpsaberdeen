@@ -213,8 +213,8 @@ section, .section {
 
 /* Nav CTA */
 .nav-cta {
-  background: var(--primary);
-  color: var(--white) !important;
+  background: #4ade80;
+  color: var(--primary) !important;
   padding: 10px 18px !important;
   border-radius: 6px;
   font-weight: 600 !important;
@@ -223,7 +223,7 @@ section, .section {
   transition: background 0.2s !important;
   white-space: nowrap;
 }
-.nav-cta:hover { background: var(--accent) !important; color: var(--white) !important; }
+.nav-cta:hover { background: #22c55e !important; color: var(--primary) !important; }
 
 /* Hamburger */
 .nav-hamburger {
@@ -576,23 +576,23 @@ section, .section {
   line-height: 1;
 }
 .btn-primary {
-  background: var(--primary);
-  color: var(--white);
-  border-color: var(--primary);
+  background: #4ade80;
+  color: var(--primary);
+  border-color: #4ade80;
 }
 .btn-primary:hover {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--white);
+  background: #22c55e;
+  border-color: #22c55e;
+  color: var(--primary);
 }
 .btn-white {
-  background: var(--white);
+  background: #4ade80;
   color: var(--primary);
-  border-color: var(--white);
+  border-color: #4ade80;
 }
 .btn-white:hover {
-  background: #4ade80;
-  border-color: #4ade80;
+  background: #22c55e;
+  border-color: #22c55e;
   color: var(--primary);
 }
 .btn-outline {
@@ -601,8 +601,9 @@ section, .section {
   border-color: var(--primary);
 }
 .btn-outline:hover {
-  background: var(--primary);
-  color: var(--white);
+  background: #4ade80;
+  border-color: #4ade80;
+  color: var(--primary);
 }
 .btn-full { width: 100%; text-align: center; display: block; }
 @media (max-width: 480px) {
